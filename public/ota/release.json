@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "runtimeVersion": "1.1",
   "versionCode": 6,
-  "apkUrl": "https://dl.xmfu.cn/mobile/xmfu-1.1.1-android-arm64.apk",
+  "apkUrl": "https://dl.xmfu.cn/mobile/xmfu-1.1.2-android-arm64.apk",
   "releaseNotes": "",
-  "updatedAt": "2026-11-26T17:18:15.703Z"
+  "updatedAt": "2026-11-26T17:43:46.857Z"
 }
