@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "runtimeVersion": "1.1",
   "versionCode": 6,
-  "apkUrl": "https://dl.xmfu.cn/mobile/xmfu-1.1.5-android-arm64.apk",
-  "releaseNotes": "",
-  "updatedAt": "2026-11-27T05:15:59.508Z"
+  "apkUrl": "https://dl.xmfu.cn/mobile/xmfu-1.1.6-android-arm64.apk",
+  "releaseNotes": "更新至 v1.1.6：新增双端时间线更新日志界面，优化软键盘交互与多页面排版。",
+  "updatedAt": "2026-11-27T11:57:38.211Z"
 }
