@@ -1,12 +1,12 @@
 {
-  "id": "fb0829e0-c026-45b0-964f-45130a3b9b11",
-  "createdAt": "2026-11-26T17:49:08.331Z",
+  "id": "4922204f-53e9-4852-a100-42d399da216f",
+  "createdAt": "2026-11-27T04:45:26.121Z",
   "runtimeVersion": "1.1",
   "launchAsset": {
-    "hash": "cbkeS7W2MbhYanwYmxonsa4zuQdQXqEqcNTW-ypkIXQ",
-    "key": "71b91e4bb5b631b8586a7c189b1a27b1ae33b907505ea12a70d4d6fb2a642174",
+    "hash": "dy2sZIRfSaOZCky0tdCd_Dhtv_w0Ol3rwqgI521_8HM",
+    "key": "772dac64845f49a3990a4cb4b5d09dfc386dbffc343a5debc2a808e76d7ff073",
     "contentType": "application/javascript",
-    "url": "https://ota.xmfu.cn/ota/bundles/71b91e4bb5b631b8586a7c189b1a27b1ae33b907505ea12a70d4d6fb2a642174.hbc"
+    "url": "https://ota.xmfu.cn/ota/bundles/772dac64845f49a3990a4cb4b5d09dfc386dbffc343a5debc2a808e76d7ff073.hbc"
   },
   "assets": [
     {
@@ -197,7 +197,7 @@
     "expoClient": {
       "name": "xmfu",
       "slug": "xmfu",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "orientation": "portrait",
       "scheme": "xmfu",
       "userInterfaceStyle": "automatic",
@@ -299,7 +299,7 @@
       },
       "extra": {
         "otaOrigin": "https://ota.xmfu.cn",
-        "appVersion": "1.1.3",
+        "appVersion": "1.1.4",
         "runtimeVersion": "1.1",
         "versionCode": 6,
         "appVariant": "production",
